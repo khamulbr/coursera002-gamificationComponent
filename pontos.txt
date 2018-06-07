@@ -1,0 +1,3 @@
+guerra,estrela,10
+guerra,moeda,25
+joao,moeda,15
